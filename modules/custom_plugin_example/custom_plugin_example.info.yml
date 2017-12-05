@@ -1,0 +1,7 @@
+name: Example for Custom D8 plugin
+description: Provides an example for Custom D8 plugin.
+type: module
+package: Other
+core: '8.x'
+dependencies:
+  - custom_plugin

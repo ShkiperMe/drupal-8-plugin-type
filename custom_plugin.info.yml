@@ -1,0 +1,5 @@
+name: Custom D8 plugin
+type: module
+description: Provides an API for creating fillable elements of custom plugin.
+package: Other
+core: '8.x'
